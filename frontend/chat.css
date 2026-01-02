@@ -1,0 +1,22 @@
+#chatbox {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  border: 1px solid #ccc;
+  background: #fff;
+  padding: 10px;
+}
+
+#messages {
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 5px;
+}
+
+#chat-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

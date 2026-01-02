@@ -1,0 +1,331 @@
+
+
+
+[
+    {
+    "id": 1.1,
+    "title": "Company Overview",
+    "content": "Discvr.ai is an AI-powered India market intelligence platform offering portfolio insights and risk analysis."
+  },
+  {
+    "id": 1.2,
+    "title": "Services",
+    "content": "We provide portfolio health monitoring, investment risk assessment, smart watchlists, and real-time alerts."
+  },
+  {
+    "id": 1.3,
+    "title": "Contact",
+    "content": "You can contact us via email at support@discvr.ai."
+  },
+  
+  {
+    "id": 1,
+    "title": "What is a Loan Against Mutual Funds (LAMF)?",
+    "content": "A Loan Against Mutual Funds (LAMF) allows you to borrow money by pledging your mutual fund units as collateral. Your units remain invested and continue earning returns; only a temporary lien is created."
+  },
+  {
+    "id": 2,
+    "title": "How does a Loan Against Mutual Funds work?",
+    "content": "Your mutual fund units are lien-marked in favor of the lender. You receive a sanctioned credit limit and can withdraw funds as needed. Interest is charged only on the amount you utilize."
+  },
+  {
+    "id": 3,
+    "title": "How much loan can I take against mutual funds?",
+    "content": "Loan-to-Value (LTV) depends on scheme type. Equity mutual funds allow up to 45–50% LTV, while debt mutual funds allow up to 75–80%. Actual limits depend on the eligible scheme list and market volatility."
+  },
+  {
+    "id": 4,
+    "title": "Do my mutual funds keep earning returns after pledging?",
+    "content": "Yes. The mutual fund units remain invested and continue to earn gains, dividends, and NAV movements. Only redemption is restricted while the lien exists."
+  },
+  {
+    "id": 5,
+    "title": "Can I continue SIPs on pledged mutual funds?",
+    "content": "Yes. SIPs continue normally. However, newly added SIP units may require separate pledging if you want them included in the collateral pool."
+  },
+  {
+    "id": 6,
+    "title": "Will pledging mutual funds trigger capital gains tax?",
+    "content": "No. Pledging creates a lien, not a sale. Capital gains tax applies only when you redeem mutual fund units."
+  },
+  {
+    "id": 7,
+    "title": "What is the typical loan tenure for LAMF?",
+    "content": "The standard loan tenure is 36 months with flexible repayment options and foreclosure available at any time."
+  },
+  {
+    "id": 8,
+    "title": "What are the benefits of LAMF compared to a personal loan?",
+    "content": "LAMF offers lower interest rates, faster approval, minimal documentation, no income proof in many cases, overdraft-style usage, and allows you to retain market upside on investments."
+  },
+  {
+    "id": 9,
+    "title": "What risks are involved in a Loan Against Mutual Funds?",
+    "content": "The primary risk is market volatility. If NAV falls sharply, a margin call may be issued requiring partial repayment or additional collateral. Failure to comply can result in liquidation of pledged units."
+  },
+  {
+    "id": 10,
+    "title": "Does checking my LAMF limit affect my credit score?",
+    "content": "No. Checking your loan eligibility or limit does not affect your credit score. However, delayed payments or defaults will impact your score."
+  },
+  {
+    "id": 11,
+    "title": "Can NRIs avail Loan Against Mutual Funds?",
+    "content": "Yes. NRIs can avail LAMF if their mutual fund holdings are FEMA compliant and part of the lender’s approved scheme list."
+  },
+  {
+    "id": 12,
+    "title": "Are jointly held mutual funds eligible for LAMF?",
+    "content": "Yes. All unit holders must authorize the pledge. Some lenders may require additional co-borrower documentation."
+  },
+  {
+    "id": 13,
+    "title": "What happens if I don’t repay my LAMF?",
+    "content": "The lender may redeem your pledged mutual fund units to recover outstanding principal, interest, and applicable charges."
+  },
+  {
+    "id": 14,
+    "title": "When is the lien removed from mutual funds?",
+    "content": "The lien is removed immediately after full repayment. Lien removal usually completes within 48–72 hours."
+  },
+  {
+    "id": 15,
+    "title": "Are there any restrictions on loan usage?",
+    "content": "No. Loan proceeds can be used for business, personal, emergency, or discretionary purposes."
+  },
+  {
+    "id": 16,
+    "title": "What documents are required for LAMF?",
+    "content": "Generally required documents include PAN, Aadhaar, bank account details, and contact details linked to mutual fund folios. Most journeys are fully digital."
+  },
+  {
+    "id": 17,
+    "title": "Is a demat account required for LAMF?",
+    "content": "No. Statement of Account (SOA) mutual funds serviced by CAMS or KFin are supported. Demat holdings are also supported through depository pledge."
+  },
+  {
+    "id": 18,
+    "title": "Are there any processing fees or hidden charges?",
+    "content": "Charges vary by lender and may include processing fees, lien or pledge charges, bounce charges, and late payment interest."
+  },
+  {
+    "id": 19,
+    "title": "How is DiscvrAI’s LAMF different from traditional loans?",
+    "content": "DiscvrAI offers LAMF without income documentation, provides a credit line based on MF value, interest-only monthly payments, flexible withdrawals, and repayment within 36 months."
+  },
+  {
+    "id": 20,
+    "title": "What is the minimum loan amount on DiscvrAI?",
+    "content": "The minimum loan amount available on DiscvrAI is ₹25,000."
+  },
+  {
+    "id": 21,
+    "title": "What is the maximum loan amount on DiscvrAI?",
+    "content": "The maximum loan amount depends on the eligible mutual fund value and lender-defined LTV limits."
+  },
+  {
+    "id": 22,
+    "title": "What will my monthly payment look like?",
+    "content": "You pay only monthly interest on the utilized loan amount. For example, an outstanding of ₹1,00,000 at 10.4% p.a. results in approximately ₹866.67 monthly interest."
+  },
+  {
+    "id": 23,
+    "title": "Can DiscvrAI LAMF be used as a credit line?",
+    "content": "Yes. Once you repay the principal, your credit limit restores and you can withdraw funds again anytime."
+  },
+  {
+    "id": 24,
+    "title": "How fast is loan approval and disbursal?",
+    "content": "If eligible, approval, lien creation, and disbursal typically complete within 2 working hours."
+  },
+  {
+    "id": 25,
+    "title": "Who is the lender for DiscvrAI LAMF?",
+    "content": "Loans are offered by Bajaj Finance Limited through the Smallcase SDK integrated into DiscvrAI."
+  },
+  {
+    "id": 26,
+    "title": "How is DiscvrAI’s credit limit calculated?",
+    "content": "Equity mutual funds are considered up to 45% of market value, while debt mutual funds are considered up to 75% of market value."
+  },
+  {
+    "id": 27,
+    "title": "Which mutual funds are eligible for LAMF?",
+    "content": "Funds must be part of Bajaj Finance Limited’s approved list via Smallcase SDK. ELSS under lock-in, already pledged funds, or blacklisted schemes are not eligible."
+  },
+  {
+    "id": 28,
+    "title": "Why is my eligible loan limit showing zero?",
+    "content": "Possible reasons include holding only ELSS funds, ineligible schemes, already pledged units, low portfolio value, or incorrect contact details."
+  },
+  {
+    "id": 29,
+    "title": "Does DiscvrAI share my mutual fund data externally?",
+    "content": "No. Your data remains within the Smallcase SDK and lender integration ecosystem."
+  },
+  {
+    "id": 30,
+    "title": "Why are my holdings re-imported during the journey?",
+    "content": "Holdings are re-imported to recalculate actual loan eligibility before pledging."
+  },
+  {
+    "id": 31,
+    "title": "Which email or phone number should I use to fetch holdings?",
+    "content": "For CAMS funds, use the registered email ID. For KFin funds, use the registered mobile number."
+  },
+  {
+    "id": 32,
+    "title": "Why is my credit limit different from earlier?",
+    "content": "Credit limits may change due to NAV fluctuations, fund eligibility changes, lock-ins, blacklisting, or prior pledges."
+  },
+  {
+    "id": 33,
+    "title": "Can I choose which mutual funds to pledge?",
+    "content": "Yes. DiscvrAI allows you to select from all eligible mutual funds available for pledging."
+  },
+  {
+    "id": 34,
+    "title": "Why are fewer units shown than my actual holding?",
+    "content": "Units under lock-in such as ELSS cannot be pledged, so only free units are displayed."
+  },
+  {
+    "id": 35,
+    "title": "Why do I need to link a bank account?",
+    "content": "The bank account is required for loan disbursal, monthly interest auto-debits, repayments, and withdrawals."
+  },
+  {
+    "id": 36,
+    "title": "Why is an e-mandate required?",
+    "content": "An e-mandate is required to auto-debit monthly interest payments and avoid late payment penalties."
+  },
+  {
+    "id": 37,
+    "title": "What should I do if I get an invalid IFSC error?",
+    "content": "Verify the IFSC code from your bank passbook, statement, or UPI app. If the issue persists, contact support."
+  },
+  {
+    "id": 38,
+    "title": "Why is the white popup stuck during mandate setup?",
+    "content": "This is usually due to blocked third-party cookies. Enable them in your browser settings and retry."
+  },
+  {
+    "id": 39,
+    "title": "What happens if I set up a mandate but don’t want the loan?",
+    "content": "You can cancel the e-mandate from your bank’s net banking portal. The loan will not proceed without pledging."
+  },
+  {
+    "id": 40,
+    "title": "What happens when I pledge my mutual funds?",
+    "content": "The mutual fund units are lien-marked in favor of the lender, disabling redemption until loan closure."
+  },
+  {
+    "id": 41,
+    "title": "Can I invest more or exit pledged mutual funds?",
+    "content": "You cannot redeem pledged units, but you can continue investing in the same folio."
+  },
+  {
+    "id": 42,
+    "title": "When are mutual funds unpledged?",
+    "content": "Mutual funds are unpledged after full repayment and loan closure."
+  },
+  {
+    "id": 43,
+    "title": "Is partial unpledging allowed?",
+    "content": "No. Partial unpledging is not supported. Full repayment is required for unpledging."
+  },
+  {
+    "id": 44,
+    "title": "Are there tax implications for pledging mutual funds?",
+    "content": "There is no tax impact unless the mutual fund units are sold."
+  },
+  {
+    "id": 45,
+    "title": "What if I pledged funds but don’t want the loan anymore?",
+    "content": "If the agreement is not e-signed, DiscvrAI support can unpledge the funds. A lien removal charge of approximately ₹500 may apply."
+  },
+  {
+    "id": 46,
+    "title": "Why is the screen stuck on generating agreement?",
+    "content": "This may occur due to PDF generation latency. Contact support for assistance."
+  },
+  {
+    "id": 47,
+    "title": "How do I sign the loan agreement?",
+    "content": "Scroll through the agreement, verify via OTP, and complete digital signing."
+  },
+  {
+    "id": 48,
+    "title": "How long does disbursal take after signing?",
+    "content": "Disbursal usually happens within 2 working hours after successful pledge and e-sign."
+  },
+  {
+    "id": 49,
+    "title": "What happens after loan application submission?",
+    "content": "The lender reviews the application, approves it, and disburses funds to your linked bank account."
+  },
+  {
+    "id": 50,
+    "title": "What should I do if disbursal is delayed?",
+    "content": "Contact DiscvrAI support. Lender intervention may be required in stuck cases."
+  },
+  {
+    "id": 51,
+    "title": "Where can I manage my loan?",
+    "content": "You can manage your loan inside the DiscvrAI Loan Dashboard powered by Smallcase SDK."
+  },
+  {
+    "id": 52,
+    "title": "How are monthly dues deducted?",
+    "content": "Monthly interest dues are auto-debited from your linked bank account."
+  },
+  {
+    "id": 53,
+    "title": "How can I repay the loan fully or partially?",
+    "content": "Go to the Loan Dashboard, select Repay Cash, and enter the repayment amount."
+  },
+  {
+    "id": 54,
+    "title": "How does withdrawal work after repayment?",
+    "content": "After repaying principal, your credit limit restores and you can withdraw funds from ₹1,000 up to the available limit."
+  },
+  {
+    "id": 55,
+    "title": "What happens if I miss a monthly interest payment?",
+    "content": "A bounce charge of ₹1,200 applies along with late interest of approximately 1.5%–2% per month on the overdue amount."
+  },
+  {
+    "id": 56,
+    "title": "What happens if mutual fund values drop significantly?",
+    "content": "If outstanding exceeds allowed LTV, a margin call is issued. You must repay the difference within 7 days or units may be liquidated."
+  },
+  {
+    "id": 57,
+    "title": "When can pledged mutual funds be liquidated?",
+    "content": "Liquidation may occur if margin calls are unmet, dues remain unpaid at tenure end, or in cases of severe delinquency."
+  },
+  {
+    "id": 58,
+    "title": "How do I close my LAMF loan?",
+    "content": "Go to the Loan Dashboard, request closure, repay all dues, and the lien will be removed."
+  },
+  {
+    "id": 59,
+    "title": "Why is my mandate not setting up?",
+    "content": "Mandate failures usually occur due to blocked third-party cookies. Enable cookies and retry."
+  },
+  {
+    "id": 60,
+    "title": "Why are mutual fund values mismatched?",
+    "content": "NAV updates occur daily on market days, and real-time refresh may cause temporary variations."
+  },
+  {
+    "id": 61,
+    "title": "Why didn’t my holdings fetch correctly?",
+    "content": "This usually happens due to incorrect email/mobile input or funds serviced by a different RTA."
+  },
+  {
+    "id": 62,
+    "title": "How can I contact LAMF support?",
+    "content": "You can call or WhatsApp the DiscvrAI LAMF support team at +91 88265 45484 for assistance with loan-related queries."
+  }
+]
